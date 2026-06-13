@@ -267,7 +267,10 @@ Potential improvements include:
 
 All names, phone numbers, cattle records, health records, and financial records in this repository are fictional demonstration entries. They do not represent a real ranch or real individuals.
 
-## Author
+## Authors
 
-**Shunzhi Yu**  **Songtao Zhang** 
+**Shunzhi Yu**
+
+**Songtao Zhang**
+
 ::: 
